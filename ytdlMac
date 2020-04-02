@@ -1,0 +1,4 @@
+
+cd ~/Desktop/ytdlMac/UF
+youtube-dl -f bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4  https://www.youtube.com/watch?v=tCZu8a5r5y4
+echo "youtube vid downloaded" >> ~/Desktop/ytdlMac/done.txt
