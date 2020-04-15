@@ -5,7 +5,9 @@ to run the script without a debug env donwload jsx launcher (compatible with pre
 
 https://exchange.adobe.com/creativecloud.details.12096.jsx-launcher.html
 
-this script doesnt work in the most current version of premiere pro, because Premiere Pro seems to have partially broken the scripting api in the newest update. I get an 'illegal arguments' error with simple code that has always worked before.
+this script doesnt work in the most current version of premiere pro, because Premiere Pro seems to have partially broken the scripting api in the newest update. I've only tested the newest PP version with my script on Pc, but I'm not going to test it on mac any time soon, so if it doesn't work for you, ya'know why. When I run my script on the current PP version (14.4?) I get an 'illegal arguments' error with simple code that has always worked before.
 it is only confirmed to work with version 14.0, but it likely works with older premiere 2019, also known as v.13. Don't blame me if you use 14.4 or whatever, Adobe broke it, I can't even query the premiere pro api in the new version, it's almost completely broken :((((((((
 
 download my github files, launch jsx launcher from the Window > Extensions, select my script folder with jsx launcher, and if you've installed all thirdpary software succesffuly, you should be good to go. 
+
+If you use an olddddd version of premiere that's incompatible with jsx launcher, message me on my youtube channel, that'll incentivise me to turn this into a real plugin, compatible with older PP versions. 
