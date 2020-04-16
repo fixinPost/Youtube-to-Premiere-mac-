@@ -1,5 +1,5 @@
 var UF = Folder.selectDialog('select folder to import!');
-alert(UF);
+//alert(UF);
 var scriptFolder = ((new File($.fileName)).parent);
 var UFC = File([scriptFolder +'/userFolderCacher.txt']);
 UFC.open('w');
